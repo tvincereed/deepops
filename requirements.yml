@@ -12,3 +12,11 @@
 - src: https://github.com/lukeyeager/ansible-role-hosts.git
   version: '711ba98571f068a8bc6739fa1055ac38fc931010'
   name: lukeyeager.hosts
+
+- src: https://github.com/dholt/ansible-openldap.git
+
+- src: andrewrothstein.nss-pam-ldap
+  version: "v1.0.2"
+
+- src: andrewrothstein.nss-pam-ldap-configure
+  version: "v1.0.6"
