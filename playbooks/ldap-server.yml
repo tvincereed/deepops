@@ -2,5 +2,4 @@
 - hosts: management
   become: true
   roles:
-    #- dholt.openldap_server
-    - ansible-openldap
+    - dholt.openldap

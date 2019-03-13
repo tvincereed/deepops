@@ -14,6 +14,7 @@
   name: lukeyeager.hosts
 
 - src: https://github.com/dholt/ansible-openldap.git
+  name: dholt.openldap
 
 - src: andrewrothstein.nss-pam-ldap
   version: "v1.0.2"
